@@ -1,6 +1,6 @@
 # Fraud Detection Example: Project Overview
 
-**Tags: logistic regression, decision tree, random forest randomSearchCV, fraud, EDA, feature engineering**
+**Tags: logistic regression, decision tree, random forest, hyperparameter tuning, SMOTE, cross validation, EDA, feature engineering, finance, fraud**
 
 This notebook is part of Alura's course Modelos preditivos em dados: detecção de fraude (Data predictive models: fraud detection) by Sthefanie Monica ([Link](https://cursos.alura.com.br/course/modelos-preditivos-dados-deteccao-fraude)).
 
